@@ -71,4 +71,4 @@ find_if_discoverd()
 print("the unk_event list len "+str(len(unk_events)))
 search_near_objs(folder_path, hand_events, scd_pry_events, first_radius_search, second_radius_search,
                  dist_from_the_milkyway, lst_of_scd_pry_obj_type)
-#add_info_for_events(folder_path)
+# add_info_for_events(folder_path)
